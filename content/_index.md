@@ -1,17 +1,16 @@
 ---
-action_label: Read More &rarr;
-action_link: /about
+action_label: Entre em contato &rarr;
+action_link: /contato
 action_type: text
-date: "2019-02-18T12:27:33-06:00"
-description: Not all themes are created equal. With Blogophonic we set out to create
-  a clean theme with the right features for a serious blog. We also wanted Blogophonic
-  to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it
-  full of configurable options.
+description: O Grupo Interdisciplinar de Pesquisa em Sono (GIPSO) foi fundado em 2015 e é atualmente composto por alunos de graduação, pós-graduação e docentes de diferentes áreas do conhecimento.
+image_left: false
 images:
-- img/unicorn-megaphone.png
+- img/home.jpg
 show_action_link: true
-subtitle: A Hugo Theme by Formspree
-title: Blogophonic
+show_social_links: false
+subtitle: Grupo Interdisciplinar de Pesquisa em Sono
+text_align_left: true
+title: GIPSO
 type: home
 ---
 

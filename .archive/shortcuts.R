@@ -1,0 +1,10 @@
+# # For development use only (comment the code after use (Ctrl + Shift + C))
+#
+# blogdown::stop_server()
+# blogdown::serve_site()
+# blogdown::check_hugo()
+# blogdown::check_netlify()
+# blogdown::check_content()
+# blogdown::check_gitignore()
+# blogdown::check_config()
+# blogdown::build_site()
