@@ -5,7 +5,7 @@ draft: false
 formspree_form_id: mvodlwdg
 layout: split-right
 name: Form
-show_poweredby_formspree: false
+show_poweredby_formspree: true
 show_social_links: true
 submit_button_label: Enviar
 title: Olá @!
