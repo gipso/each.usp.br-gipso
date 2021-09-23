@@ -30,18 +30,18 @@ enableEmoji = true
 [params]
   orgName = "GIPSO"
   orgLocal = ""
-  description = "Página do Grupo Interdisciplinar de Pesquisa em Sono (GIPSO)."
+  description = "O Grupo Interdisciplinar de Pesquisa em Sono (GIPSO) é um grupo de pesquisa da Universidade de São Paulo (USP) que se dedica a estudar a vida sob a perspectiva do tempo, o que inclui o estudo do sono e dos ritmos biológicos."
   favicon = "/img/favicon.ico"
   logo = "/img/logo.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = "" # ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
   socialInHeader = true
-  socialInFooter = true
+  socialInFooter = false
   # Default image for social sharing and search engines.
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/social.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "gipsousp"
 
@@ -112,7 +112,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Quem somos"
     title = "Quem somos"
-    url = "/about/"
+    url = "/quem-somos/"
     weight = 1
   [[menu.header]]
     name = "Contato"

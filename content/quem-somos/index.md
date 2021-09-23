@@ -11,7 +11,7 @@ O Grupo Interdisciplinar de Pesquisa em Sono (GIPSO) é um grupo de pesquisa da 
 
 O GIPSO busca entender como se expressa a organização temporal dos seres vivos, além de disseminar o conhecimento obtido tanto para a comunidade científica quanto para a população. Somos um grupo composto por pesquisadores hospitaleiros e irreverentes, de diferentes áreas do conhecimento, que prezam pela horizontalidade na discussão e desenvolvimento de suas pesquisas.
 
-<img src="header/img_1.jpg" />
+<img src="img_1.jpg" />
 
 ## Linhas de pesquisa consolidadas
 
