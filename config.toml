@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "GIPSO"
   orgLocal = ""
-  description = "Página do Grupo Interdisciplinar de Pesquisa em Sono (GIPSO)"
+  description = "Página do Grupo Interdisciplinar de Pesquisa em Sono (GIPSO)."
   favicon = "/img/favicon.ico"
   logo = "/img/logo.png"
   mainSections = ["blog", "project", "talk"]
@@ -110,10 +110,15 @@ enableEmoji = true
 [menu]
   # Configure header
   [[menu.header]]
+    name = "Quem somos"
+    title = "Quem somos"
+    url = "/about/"
+    weight = 1
+  [[menu.header]]
     name = "Contato"
     title = "Contato"
     url = "/contato/"
-    weight = 1
+    weight = 2
 
   # Configure footer
 #  [[menu.footer]]
